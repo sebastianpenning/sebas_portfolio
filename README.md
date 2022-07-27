@@ -27,7 +27,9 @@ In this section, an overview of each project will be given, together with links 
 
 ### Time Series Forecast
 
-
+![alt text](https://github.com/sebastianpenning/sebas_portfolio/blob/main/time_series_1.png?raw=true)
+![alt text](https://github.com/sebastianpenning/sebas_portfolio/blob/main/time_series_2.png?raw=true)
+![alt text](https://github.com/sebastianpenning/sebas_portfolio/blob/main/time_series_3.png?raw=true)
 
 ### Exploratory Data Analysis
 
