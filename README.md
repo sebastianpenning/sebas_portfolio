@@ -20,15 +20,14 @@ This is a repository to showcase skills, share projects and track my progress in
 
 In this section, an overview of each project will be given, together with links and visualizations. 
 
-### Project 1
+### Discount Impact Analysis
 
-### Project 2
+### Time Series Forecast
 
-### Project 3
+### Exploratory Data Analysis
 
-### Project 4
+### Excel Dashboard
 
-### Project 5
 # Contact 
 
 Linkedin : [@sebastian-penning](https://www.linkedin.com/in/sebastian-penning)
