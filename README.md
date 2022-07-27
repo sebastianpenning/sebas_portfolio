@@ -22,7 +22,12 @@ In this section, an overview of each project will be given, together with links 
 
 ### Discount Impact Analysis
 
+![alt text](https://github.com/sebastianpenning/sebas_portfolio/blob/main/discount_impact_1.png?raw=true)
+![alt text](https://github.com/sebastianpenning/sebas_portfolio/blob/main/discount_impact_2.png?raw=true)
+
 ### Time Series Forecast
+
+
 
 ### Exploratory Data Analysis
 
