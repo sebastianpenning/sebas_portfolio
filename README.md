@@ -39,6 +39,8 @@ In this section, an overview of each project will be given, together with links 
 
 ### Excel Dashboard
 
+![alt text](https://github.com/sebastianpenning/sebas_portfolio/blob/main/excel_dashboard.png?raw=true)
+
 # Contact 
 
 Linkedin : [@sebastian-penning](https://www.linkedin.com/in/sebastian-penning)
