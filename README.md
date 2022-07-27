@@ -33,9 +33,9 @@ In this section, an overview of each project will be given, together with links 
 
 ### Exploratory Data Analysis
 
-![alt text](https://github.com/sebastianpenning/sebas_portfolio/blob/main/exploratory_1.jpg?raw=true)
-![alt text](https://github.com/sebastianpenning/sebas_portfolio/blob/main/exploratory_2.jpg?raw=true)
-![alt text](https://github.com/sebastianpenning/sebas_portfolio/blob/main/exploratory_3.jpg?raw=true)
+![alt text](https://github.com/sebastianpenning/sebas_portfolio/blob/main/exploratory_1.jpeg?raw=true)
+![alt text](https://github.com/sebastianpenning/sebas_portfolio/blob/main/exploratory_2.jpeg?raw=true)
+![alt text](https://github.com/sebastianpenning/sebas_portfolio/blob/main/exploratory_3.jpeg?raw=true)
 
 ### Excel Dashboard
 
