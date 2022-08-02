@@ -43,12 +43,6 @@ This project used sales data collected over the period of 2012-2016 to create a 
 
 In this project, the data contains information about the selling of different commodities prices and quantities around the US. After cleaning the data, by dropping, reodering, and creating new collumns, a exploratory data analysis was undertaken in order to have a general impression of the data. This include which items were sold the most versus the least, which vendors performed the best versus the least, sales per state, historical sales evolution, and which products sold together the most.   
 
-### Excel Dashboard
-
-![alt text](https://github.com/sebastianpenning/sebas_portfolio/blob/main/excel_dashboard.png?raw=true)
-
-This project contains supply chain health commodity shipment and pricing data from the US. It was reformated to fit more into a commercial scenario. The purpose of this project was to prepare data in Excel to be used for a dashboard which was also created in Excel. Succeding initial data cleaning and reformating, which included removal of not used variables and missing data, several pivot tables were made. These pivot tables tried to visualize the costs in relationship to lead time discrepencies, which finally results in the dashboard. 
-
 # Contact 
 
 Linkedin : [@sebastian-penning](https://www.linkedin.com/in/sebastian-penning)
